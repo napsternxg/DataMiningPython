@@ -1,4 +1,5 @@
 # Data Mining Python
+Data Mining python scripts for social scientists
 
 ## Installation instructions
 * Install python 2.7 using Anaconda distribution from https://www.continuum.io/downloads. **Make sure you install the 2.7 version**. More details at: https://docs.continuum.io/anaconda/install
