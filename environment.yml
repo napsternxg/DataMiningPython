@@ -1,0 +1,15 @@
+name: datamining
+dependencies:
+  - jupyter
+  - numpy
+  - scipy
+  - scikit-learn
+  - pandas
+  - statsmodels
+  - gensim
+  - matplotlib
+  - seaborn
+  - nltk
+  - pip:
+    - git+https://github.com/napsternxg/pyLDAvis.git
+    - wordcloud
