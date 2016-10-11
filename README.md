@@ -47,7 +47,7 @@ jupyter notebook
 * Click on the `NLP checks.ipynb` and then from the toolbar click on **Cell > Run All**
 * All the cells in the given web page should run successfully and the output should look like the file: https://github.com/napsternxg/DataMiningPython/blob/master/NLP%20checks.ipynb
 * Click on the `Twitter checks.ipynb` and then from the toolbar click on **Cell > Run All**
-* All the cells in the given web page should run successfully and the output should look like the file: https://github.com/napsternxg/DataMiningPython/blob/master/Twitter%20checks.ipynb
+* All the cells in the given web page should run successfully and the output should look like the file: https://github.com/napsternxg/DataMiningPython/blob/master/Twitter%20Checks.ipynb
 
 
 ## You are ready for class. 
