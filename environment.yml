@@ -10,6 +10,8 @@ dependencies:
   - matplotlib
   - seaborn
   - nltk
+  - cython
   - pip:
     - git+https://github.com/napsternxg/pyLDAvis.git
     - wordcloud
+    - tweepy
