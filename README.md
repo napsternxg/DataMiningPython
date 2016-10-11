@@ -32,9 +32,9 @@ jupyter notebook
 
 * In the project directory copy the file `twitter_config.sample.json` to `twitter_config.json`
 * Go to https://apps.twitter.com/app/new to create a new twitter app. 
-* Give a unique name to your app. Try `DataMining-FA2016LIS590DTL-<yourname>`
-* Once app is created go to **Keys and Access Tokens tabs**
-* Click on the button **Create my access token**
+* Give a unique name to your app. Try `DataMining-FA2016LIS590DTL-<yourname>` [See [Image](https://github.com/napsternxg/DataMiningPython/blob/master/images/Create%20Tweet%20App.PNG)]
+* Once app is created go to **Keys and Access Tokens tabs** [See [Image](https://github.com/napsternxg/DataMiningPython/blob/master/images/Consumer%20Key%20Tokens.PNG)]
+* Click on the button **Create my access token** [See [Image](https://github.com/napsternxg/DataMiningPython/blob/master/images/Access%20Tokens.PNG)]
 * Now on the page you should have values for the fields **Consumer Key, Consumer Key Secret, Access Token, and Access Token Secret**
 * Open your `twitter_config.json` in a text editor. 
 * Copy the values of the fields from the respective sections of the web page between the quote in front of the similar field names. 
