@@ -4,8 +4,10 @@ Data Mining python scripts for social scientists
 ## Installation instructions
 * Install python 2.7 using Anaconda distribution from https://www.continuum.io/downloads. **Make sure you install the 2.7 version**. More details at: https://docs.continuum.io/anaconda/install
 * Download this project file: https://github.com/napsternxg/DataMiningPython/archive/master.zip and unzip it in a folder (we will refer to this as **Project Directory**). 
-* Open the command line of your OS and **navigate to the Project Directory**. 
-* Type the following command:
+* Open the command line of your OS and **navigate to the Project Directory**.
+* If you unzipped the files to `/user/ABC/DataMining` (For linux or Mac) or `C:/Users/ABC/DataMining`
+* Make sure the `environment.yml` file is in the project directory. If it is not there then you need to go to the directory which has the `environment.yml` file.
+* From the folder which has the `environment.yml` file, type the following command:
 ```
 conda env create -n datamining
 ```
