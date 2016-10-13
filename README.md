@@ -9,7 +9,7 @@ Data Mining python scripts for social scientists
 * Make sure the `environment.yml` file is in the project directory. If it is not there then you need to go to the directory which has the `environment.yml` file.
 * From the folder which has the `environment.yml` file, type the following command:
 ```
-conda env create -n datamining
+conda env create -n datamining python=2.7
 ```
 * Above step should take some time and install all the required projects.
 * Once the everything is installed. Type the following in the command line:
