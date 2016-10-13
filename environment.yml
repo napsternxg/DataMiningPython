@@ -1,5 +1,6 @@
 name: datamining
 dependencies:
+  - python=2
   - jupyter
   - numpy
   - scipy
