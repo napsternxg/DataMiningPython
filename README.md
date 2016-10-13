@@ -56,3 +56,23 @@ jupyter notebook
 
 ## You are ready for class. 
 If you have any issues please feel free to contact me. 
+
+
+
+## FAQ
+
+  * **Make sure you install the 2.7 version** [Screenshot for Windows](https://github.com/napsternxg/DataMiningPython/blob/master/images/Anaconda%20Windows.PNG) | [Screenshot for Mac](https://github.com/napsternxg/DataMiningPython/blob/master/images/Anaconda%20Mac.PNG)
+    * You can check if the version of python installed is indeed 2.7 by running the following commands in order:
+    ```
+    source activate datamining
+    python --version
+    ```
+    * The last command should show you the version of python. Make sure it is 2.7 and not 3.5. 
+  * Anaconda installation shows the message similar to could not establish the PATH and menus.
+  Suggested fixes:
+    * After installation is complete try restarting the machine. Then from the project directory run the conda commands.
+    * If above fails by error messages similar to `"conda" isn't a recognized command`, then that means that your system cannot find conda command. You can add conda command by adding the following to the end of your system path (on windows): `;E:\Anaconda;E:\Anaconda\Scripts; E:\Anaconda\DLLs;`. Please replace E:\Anaconda with the path to where you installed Anaconda. Details on editing system PATH can be found at: http://www.howtogeek.com/118594/how-to-edit-your-system-path-for-easy-command-line-access/. You need to restart the maching after this and rerun the `activate` commands.
+    * If the above fails. Try uninstalling any other python version, then restarting machine, then reinstalling conda, and then restarting machine again. It should be able to add the path variables correctly this time. 
+
+
+I will keep updating this FAQ as I hear about more issues.
