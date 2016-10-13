@@ -16,3 +16,4 @@ dependencies:
     - https://github.com/napsternxg/pyLDAvis/zipball/master
     - wordcloud
     - tweepy
+    - pydotplus
