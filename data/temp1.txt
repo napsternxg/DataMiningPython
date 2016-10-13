@@ -1,0 +1,3 @@
+milk 5
+chocolate 10
+honey 20

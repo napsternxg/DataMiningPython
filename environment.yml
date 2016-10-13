@@ -12,6 +12,6 @@ dependencies:
   - nltk
   - cython
   - pip:
-    - git+https://github.com/napsternxg/pyLDAvis.git
+    - https://github.com/napsternxg/pyLDAvis/zipball/master
     - wordcloud
     - tweepy
