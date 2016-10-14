@@ -58,6 +58,13 @@ jupyter notebook
 If you have any issues please feel free to contact me. 
 
 
+## Class material
+
+* **[Part 1: Getting Started](https://github.com/napsternxg/DataMiningPython/blob/master/Lecture%20Notebooks/Getting%20Started.ipynb)**
+* **[Part 2: Redoing Weka Stuff](https://github.com/napsternxg/DataMiningPython/blob/master/Lecture%20Notebooks/Redoing%20Weka%20stuff.ipynb)**
+* **[Part 3: Text Data Mining](https://github.com/napsternxg/DataMiningPython/blob/master/Lecture%20Notebooks/Text%20Data%20Mining.ipynb)**
+* **[Part 4: Twitter Analysis](https://github.com/napsternxg/DataMiningPython/blob/master/Lecture%20Notebooks/Twitter.ipynb)**
+
 
 ## FAQ
 
