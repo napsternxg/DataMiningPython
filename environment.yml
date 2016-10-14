@@ -12,8 +12,11 @@ dependencies:
   - seaborn
   - nltk
   - cython
+  - PIL
+  - graphviz
   - pip:
     - https://github.com/napsternxg/pyLDAvis/zipball/master
     - wordcloud
     - tweepy
     - pydotplus
+
