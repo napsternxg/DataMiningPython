@@ -1,5 +1,6 @@
 # Data Mining Python
 Data Mining python scripts for social scientists
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/napsternxg/dataminingpython)
 
 ## Installation instructions
 * Install python 2.7 using Anaconda distribution from https://www.continuum.io/downloads. 
